@@ -1,0 +1,87 @@
+<div align="center">
+
+# Hey, I'm Srushti Ingale👋
+
+Final-year B.Tech IT student of 2026 Batch from MIT ADT University, PUNE  
+📍 Pune, India &nbsp;|&nbsp; 📧 srushtiingale2004@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/srushtiingale24/)
+## Key skills - · Python · SQL · ReactJS · AI & Data Engineering · REST APIs · Machine Learning · Data Analytics · Tableau 
+
+</div>
+
+---
+
+## About me
+
+I'm a final-year Information Technology student at MIT School of Computing, Pune, with a strong interest in **AI, full-stack development, and data engineering**.
+I enjoy building things end-to-end — from ETL pipelines and data warehouses to AI-powered web platforms.
+
+- 🏆 **Best Project Award** — PrepTalk (Final Year Skill Circle, MIT ADT)
+- 🥇 **Top 50 Teams** — Smart India Hackathon (Email Phishing Detection)
+- 🌱 Currently exploring **Generative AI, LLMs, and agentic systems**
+- 💼 Seeking roles in **Data Engineering, AI Development, or Full-Stack**
+
+---
+
+## Tech stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Data & Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**AI & Cloud**
+
+![OpenAI](https://img.shields.io/badge/AI%20Integration-412991?style=flat&logo=openai&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+---
+
+## Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🏆 [PrepTalk](https://github.com/srushtiingale24/PrepTalk---AI-powered-mock-interview-platform) | AI mock interview platform with speech interaction, real-time feedback & performance analytics. **Best Project Award.** | Python · ReactJS · Flask · REST APIs · AI |
+| 🔁 [Data Pipeline Framework](https://github.com/srushtiingale24/Data-pipeline-framework-) | End-to-end ETL pipeline with 10+ data quality checks, SQLite warehouse & Streamlit dashboard | Python · Pandas · SQL · SQLite · Streamlit |
+| 📉 [RetainIQ](https://github.com/srushtiingale24/RetainIQ) | ML-powered customer churn predictor using Random Forest with behavioural feature engineering | Python · Scikit-learn · Pandas · Streamlit |
+| 🛡️ Phishing Detector *(SIH)* | Email phishing detection software — placed **Top 50 at MIT ADT** in Smart India Hackathon | Python · NLP · ML |
+
+---
+
+## Certifications
+
+- 📊 [Google Advanced Data Analysis Capstone](https://www.coursera.org) — Coursera
+- 🤖 [Generative AI](https://www.coursera.org) — Google × Coursera
+- 📈 [Fundamentals of Visualization with Tableau](https://www.coursera.org) — Coursera
+
+---
+
+## Experience
+
+**Technical Support Intern — Swaraj Techniks Pvt. Ltd** *(Apr 2025 – Jun 2025)*
+Used Python and SQL to analyse operational data, conducted RCA on production issues, and supported ERP workflows. Transformed raw system data into stakeholder-ready analytics reports.
+
+---
+
+## Let's connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/srushtiingale24/)
+- 📧 srushtiingale2004@gmail.com
+- 🐙 [GitHub](https://github.com/srushtiingale24)
+
+<div align="center">
+
+*Open to data engineering, AI development, and full-stack opportunities*
+
+</div>
