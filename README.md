@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Srushti Ingale👋
+# Hey, I'm Srushti Ingale
 
 Final-year B.Tech IT student of 2026 Batch from MIT ADT University, PUNE  
 📍 Pune, India &nbsp;|&nbsp; 📧 srushtiingale2004@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/srushtiingale24/)
