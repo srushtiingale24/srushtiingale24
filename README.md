@@ -60,14 +60,10 @@ I enjoy building things end-to-end — from ETL pipelines and data warehouses to
 ---
 
 ## Certifications
-
-- [Google Advanced Data Analysis Capstone]([https://coursera.org](https://coursera.org/share/bd17e3c53fe3487fab95f20f1d7a5ea2)) — Coursera
+- [Google Advanced Data Analysis Capstone](https://coursera.org/share/bd17e3c53fe3487fab95f20f1d7a5ea2) — Coursera
 - [Generative AI](https://coursera.org/share/662f4078225f3e8ccf1f163a5c3ef074) — Google × Coursera
-- [Fundamentals of Visualization with Tableau]([https://coursera.org](https://coursera.org/share/d7567bb0d3d9db72d1ab5725872d210f)) — Coursera
-- [Neural Networks and Deep Learning]([[https://coursera.org](https://coursera.org/share/d7567bb0d3d9db72d1ab5725872d210f)](https://coursera.org/share/c6b4304757ede247ba2772b25b26ba81)) — Coursera 
-
----
-
+- [Fundamentals of Visualization with Tableau](https://coursera.org/share/d7567bb0d3d9db72d1ab5725872d210f) — Coursera
+- [Neural Networks and Deep Learning](https://coursera.org/share/c6b4304757ede247ba2772b25b26ba81) — Coursera
 ## Experience
 
 **Technical Support Intern — Swaraj Techniks Pvt. Ltd** *(Apr 2025 – Jun 2025)*
