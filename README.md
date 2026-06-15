@@ -52,10 +52,10 @@ I enjoy building things end-to-end — from ETL pipelines and data warehouses to
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🏆 [PrepTalk](https://github.com/srushtiingale24/PrepTalk---AI-powered-mock-interview-platform) | AI mock interview platform with speech interaction, real-time feedback & performance analytics. **Best Project Award.** | Python · ReactJS · Flask · REST APIs · AI |
-| 🔁 [Data Pipeline Framework](https://github.com/srushtiingale24/Data-pipeline-framework-) | End-to-end ETL pipeline with 10+ data quality checks, SQLite warehouse & Streamlit dashboard | Python · Pandas · SQL · SQLite · Streamlit |
-| 📉 [RetainIQ](https://github.com/srushtiingale24/RetainIQ) | ML-powered customer churn predictor using Random Forest with behavioural feature engineering | Python · Scikit-learn · Pandas · Streamlit |
-| 🛡️ Phishing Detector *(SIH)* | Email phishing detection software — placed **Top 50 at MIT ADT** in Smart India Hackathon | Python · NLP · ML |
+|[PrepTalk](https://github.com/srushtiingale24/PrepTalk---AI-powered-mock-interview-platform) | AI mock interview platform with speech interaction, real-time feedback & performance analytics. **Best Project Award.** | Python · ReactJS · Flask · REST APIs · AI |
+|[Data Pipeline Framework](https://github.com/srushtiingale24/Data-pipeline-framework-) | End-to-end ETL pipeline with 10+ data quality checks, SQLite warehouse & Streamlit dashboard | Python · Pandas · SQL · SQLite · Streamlit |
+|[RetainIQ](https://github.com/srushtiingale24/RetainIQ) | ML-powered customer churn predictor using Random Forest with behavioural feature engineering | Python · Scikit-learn · Pandas · Streamlit |
+|Phishing Detector *(SIH)* | Email phishing detection software — placed **Top 50 at MIT ADT** in Smart India Hackathon | Python · NLP · ML |
 
 ---
 
@@ -73,9 +73,9 @@ Used Python and SQL to analyse operational data, conducted RCA on production iss
 
 ## Let's connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/srushtiingale24/)
-- 📧 srushtiingale2004@gmail.com
-- 🐙 [GitHub](https://github.com/srushtiingale24)
+- [LinkedIn](https://www.linkedin.com/in/srushtiingale24/)
+- srushtiingale2004@gmail.com
+- [GitHub](https://github.com/srushtiingale24)
 
 <div align="center">
 
