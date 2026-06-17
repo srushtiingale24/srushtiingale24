@@ -2,9 +2,9 @@
 
 # Hey, I'm Srushti Ingale
 
-Final-year B.Tech IT student of 2026 Batch from MIT ADT University, PUNE  
-📍 Pune, India &nbsp;|&nbsp; 📧 srushtiingale2004@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/srushtiingale24/)
-## Key skills - · Python · SQL · ReactJS · AI & Data Engineering · REST APIs · Machine Learning · Data Analytics · Tableau 
+## AI Developer • Data Engineering Enthusiast • Full-Stack Developer
+Final-Year B.Tech Information Technology Student | MIT ADT University, Pune
+### srushtiingale2004@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/srushtiingale24/)
 
 </div>
 
@@ -16,7 +16,7 @@ I'm a final-year Information Technology student at MIT School of Computing, Pune
 I enjoy building things end-to-end — from ETL pipelines and data warehouses to AI-powered web platforms.
 
 - 🏆 **Best Project Award** — PrepTalk (Final Year Skill Circle, MIT ADT)
-- 🥇 **Top 50 Teams** — Smart India Hackathon (Email Phishing Detection)
+- 🥇 **Top 50 Teams** — Smart India Hackathon 2024 (Email Phishing Detection System)
 - 🌱 Currently exploring **Generative AI, LLMs, and agentic systems**
 - 💼 Seeking roles in **Data Engineering, AI Development, or Full-Stack**
 
@@ -55,7 +55,7 @@ I enjoy building things end-to-end — from ETL pipelines and data warehouses to
 |[PrepTalk](https://github.com/srushtiingale24/PrepTalk---AI-powered-mock-interview-platform) | AI mock interview platform with speech interaction, real-time feedback & performance analytics. **Best Project Award.** | Python · ReactJS · Flask · REST APIs · AI |
 |[Data Pipeline Framework](https://github.com/srushtiingale24/Data-pipeline-framework-) | End-to-end ETL pipeline with 10+ data quality checks, SQLite warehouse & Streamlit dashboard | Python · Pandas · SQL · SQLite · Streamlit |
 |[RetainIQ](https://github.com/srushtiingale24/RetainIQ) | ML-powered customer churn predictor using Random Forest with behavioural feature engineering | Python · Scikit-learn · Pandas · Streamlit |
-|Phishing Detector *(SIH)* | Email phishing detection software — placed **Top 50 at MIT ADT** in Smart India Hackathon | Python · NLP · ML |
+|Phishing Detector *(SIH)* | Email phishing detection system selected among Top 50 teams in Smart India Hackathon 2024 | Python · NLP · ML |
 
 ---
 
@@ -64,11 +64,17 @@ I enjoy building things end-to-end — from ETL pipelines and data warehouses to
 - [Generative AI](https://coursera.org/share/662f4078225f3e8ccf1f163a5c3ef074) — Google × Coursera
 - [Fundamentals of Visualization with Tableau](https://coursera.org/share/d7567bb0d3d9db72d1ab5725872d210f) — Coursera
 - [Neural Networks and Deep Learning](https://coursera.org/share/c6b4304757ede247ba2772b25b26ba81) — Coursera
+
 ## Experience
 
-**Technical Support Intern — Swaraj Techniks Pvt. Ltd** *(Apr 2025 – Jun 2025)*
-Used Python and SQL to analyse operational data, conducted RCA on production issues, and supported ERP workflows. Transformed raw system data into stakeholder-ready analytics reports.
+### Technical Support Intern — Swaraj Techniks Pvt. Ltd
+*Apr 2025 – Jun 2025*
 
+- Analyzed operational and production data using Python and SQL
+- Conducted RCA (Root Cause Analysis) on production issues
+- Supported ERP workflows and process optimization
+- Built stakeholder-ready analytics reports
+  
 ---
 
 ## Let's connect
